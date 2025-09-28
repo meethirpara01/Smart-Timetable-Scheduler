@@ -55,8 +55,7 @@ const dummyData = {
     ],
     batches: [
         { id: 'B01-A', name: 'CSE Sem 3 - Div A', subjects: ['CS101', 'CS201L', 'PHY101', 'PHY101L', 'MAT101', 'CS102', 'CHM101', 'CHM101L'] },
-        { id: 'B01-B', name: 'CSE Sem 3 - Div B', subjects: ['CS101', 'CS201L', 'PHY101', 'PHY101L', 'MAT101', 'CS102', 'CHM101', 'CHM101L'] },
-        { id: 'B02-A', name: 'PHY Sem 1 - Div A', subjects: ['CS101', 'CS201L', 'PHY101', 'PHY101L', 'MAT101', 'CS102', 'CHM101', 'CHM101L'] },
+        { id: 'B01-B', name: 'CSE Sem 3 - Div B', subjects: ['CS101', 'CS201L', 'PHY101', 'PHY101L', 'MAT101', 'CS102', 'CHM101', 'CHM101L'] }
     ],
     constraints: {
         maxClassesPerDayFaculty: 5, // Increased slightly to allow for better packing
